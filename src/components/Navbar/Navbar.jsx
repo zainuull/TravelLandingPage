@@ -14,7 +14,7 @@ const Navbar = () => {
         </div>
         <div className="flex gap-x-4 items-center">
           <p className="text-[var(--primary)] hover:text-[var(--secondary)] transition duration-300 cursor-pointer">Login</p>
-          <button className="w-[160px] h-[50px] text-white  bg-[var(--primary)] border-white rounded-md hover:bg-[var(--secondary)]">Sign Up</button>
+          <button className=" text-white  bg-[var(--primary)] border-white rounded-md hover:bg-[var(--secondary)]">Sign Up</button>
         </div>
       </div>
     </header>
